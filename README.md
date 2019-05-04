@@ -1,2 +1,2 @@
 # angular-codelyzer
-Integration of Codelyzer with Angular7
+Integration of ag grid community with Angular7
